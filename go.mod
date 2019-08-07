@@ -1,4 +1,4 @@
-module initapm
+module github.com/zgcom/apm
 
 go 1.12
 
